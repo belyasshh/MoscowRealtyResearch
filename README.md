@@ -14,6 +14,8 @@ _research.pdf_ - Файл презентации pdf содержащий все
 
 _input_data.csv_ - Файл с новыми данными, был взят отсюда: https://www.kaggle.com/datasets/mrdaniilak/russia-real-estate-2021
 
+_README.md_ - пояснение к файлам, этот файл.
+
 _en_
 **Featured files:**
 
@@ -28,3 +30,5 @@ _data_dictionary.txt_ - A file with explanations for the names of data columns i
 _research.pdf_ - PDF presentation file containing all the explanations and progress of work, the principle of operation of each step.
 
 _input_data.csv_ - The file with new data was taken from here: https://www.kaggle.com/datasets/mrdaniilak/russia-real-estate-2021
+
+_README.md_ - explanation of the files, this file.
